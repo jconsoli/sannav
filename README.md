@@ -1,7 +1,6 @@
 # sannav
 
-Consoli Solutions, LLC
-jack_consoli@yahoo.com
+Jack Consoli
 jack_consoli@yahoo.com
 
 **Sample SANnav API applications**
